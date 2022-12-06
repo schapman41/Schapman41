@@ -1,4 +1,3 @@
-###
 I am a recent graduate from the Master of Data Science program at the University of Guelph, as well as a graduate of the data science certificate program at George Brown, and the Bachelor of Science honours program at Guelph, with a major in Environmental Biology. 
 
 My primary career interest is promoting the sustainability of businesses using data driven insights. I am of the belief that quantitative analysis is a strong motivator for action within most business environments. Since data science is applicable in a variety of industries, I also have secondary interests in sports analytics, healthcare and politics.
